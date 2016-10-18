@@ -1,0 +1,17 @@
+{
+  "name": "corebit",
+  "version": "1.0.0",
+  "description": "WebApiCoreBit",
+  "scripts": {
+    "start": "node Server.js"
+    
+  },
+  "dependencies":{
+  	"express":"*",
+  	"body-parser":"*",
+     "MD5": "~1.2.1",
+  	"mysql":"~2.5.5"
+  },
+  "author": "Furkan Kaya",
+  "license": "ISC"
+}
